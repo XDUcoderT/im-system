@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a8ea77a-c722-4a68-8c53-5cbdbf3e70ec" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/tc/im/common/BaseErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/tc/im/common/ClientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/tc/im/common/ResponseVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/tc/im/common/exception/ApplicationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/tc/im/common/exception/ApplicationExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/ServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/controller/ImUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/controller/ImUserDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/dao/ImUserDataEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/dao/mapper/ImUserDataMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/UserStatusChangeNotifyContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/DeleteUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/GetUserInfoReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/GetUserSequenceReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/ImportUserReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/LoginReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/ModifyUserInfoReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/PullFriendOnlineStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/PullUserOnlineStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/SetUserCustomerStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/SubscribeUserOnlineStatusReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/req/UserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/resp/GetUserInfoResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/resp/ImportUserResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/model/resp/UserOnlineStatusResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/mq/UserOnlineStatusReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/service/ImUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/service/ImUserStatusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/service/impl/ImUserStatusServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/tc/im/service/user/service/impl/ImUserviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/test/java/com/tc/im/service/ServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/service" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\工具\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../工具/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="G:\工具\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LM8lNsKYzg8BmH9w5MWa51Ox3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "G:/工作空间/项目/im-system/service/src/main/java/com/tc/im/service",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "9efab2399c7c560b34de477b9aa0a465",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\工作空间\项目\im-system\service\src\main\java\com\tc\im\service" />
+      <recent name="G:\工作空间\项目\im-system\common\src\main\java\com\tc\im\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommonApplication">
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tc.im.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tc.im.service.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3a8ea77a-c722-4a68-8c53-5cbdbf3e70ec" name="变更" comment="" />
+      <created>1675669742624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675669742624</updated>
+      <workItem from="1675669743995" duration="728000" />
+      <workItem from="1675670587986" duration="2151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
